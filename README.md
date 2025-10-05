@@ -1,9 +1,7 @@
 <div align="center">
   <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="logo" width="120">
-  
-  ### OP9MaxHz
-  
-  A tiny, beginner-friendly tool to unlock and force 120 Hz on OnePlus 9.
+  <h3>OP9MaxHz</h3>
+  <p>A tiny, beginner-friendly tool to unlock and force 120 Hz on OnePlus 9.</p>
 </div>
 
 <hr>
