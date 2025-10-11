@@ -13,8 +13,8 @@ android {
         applicationId = "siva1danil.op9maxhz"
         minSdk = 22
         targetSdk = 22
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
